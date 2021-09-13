@@ -77,7 +77,7 @@ const parseHandleResouceId = async function (resourceId) {
     // now print out
     console.log("###### resouceId: ", resourceId);
     console.log("   handler adress :", handler_address);
-    console.log("   token address:", erc20_address, ", name:", erc20_name, ", symbol:", erc20_symbol, ", decimals:", erc20_decimals, ", burnable", erc20_burnable);
+    console.log("   token address:", erc20_address, ", name:", erc20_name, ", symbol:", erc20_symbol, ", decimals:", erc20_decimals, ", burnable:", erc20_burnable);
 }
 
 const HandleResouceIds = async function () {
