@@ -1,0 +1,17 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bip32": "^2.0.5",
+    "web3": "^1.0.0",
+    "web3-providers-ws": "^1.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
